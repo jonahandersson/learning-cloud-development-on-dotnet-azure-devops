@@ -1,6 +1,6 @@
 # .NET + Azure Development Fundamentals Recommended Learning Materials
 
-### Learning Materials for Microsoft Azure and .NET Development by [Jonah Andersson](https://www.linkedin.com/in/jonahandersson).
+#### Learning Materials for Microsoft Azure and .NET Development by [Jonah Andersson](https://www.linkedin.com/in/jonahandersson).
 
 
 ### DESCRIPTION: 
