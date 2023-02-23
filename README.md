@@ -19,7 +19,8 @@ This is a compilation of the list of recommended learning resources for the foll
 
 - [Microsoft: Learn .NET Learning Resources](https://dotnet.microsoft.com/en-us/learn?WT.mc_id=DT-MVP-5004251) 
 - [Free Learning Tutorial Videos for Learning .NET](https://dotnet.microsoft.com/en-us/learn/videos?WT.mc_id=DT-MVP-5004251)
-- ![Uploading image.png…]()
+- [.NET Application Architecture - Reference Apps](https://github.com/dotnet-architecture)
+- 
 
 
 ## Cloud Development with Microsoft Azure
