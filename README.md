@@ -17,14 +17,19 @@ This is a compilation of the list of recommended learning resources for the foll
 
 ## C# Programming and .NET Development  
 
-- [Microsoft: Learn .NET Lerning Resources](https://dotnet.microsoft.com/en-us/learn?WT.mc_id=DT-MVP-5004251) 
+- [Microsoft: Learn .NET Learning Resources](https://dotnet.microsoft.com/en-us/learn?WT.mc_id=DT-MVP-5004251) 
+- [Free Learning Tutorial Videos for Learning .NET](https://dotnet.microsoft.com/en-us/learn/videos?WT.mc_id=DT-MVP-5004251)
+- ![Uploading image.png…]()
+
 
 ## Cloud Development with Microsoft Azure
 
-
-- https://azurecharts.com/[AzureCharts.com] by Alexey Polkovnikov 
+- [Microsoft Learn Path for Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/?WT.mc_id=AZ-MVP-5004251)
+- [Directory of Azure Services by Technical Category](https://azure.microsoft.com/en-us/products/?WT.mc_id=AZ-MVP-5004251)
 - [Learning Microsoft Azure: Cloud Computing and Development Fundamentals (O'Reilly Media Book)](https://learning.oreilly.com/library/view/learning-microsoft-azure/9781098113315/ "Learning Microsoft Azure: Cloud Computing and Development Fundamentals (O'Reilly Media Book) by Jonah Andersson ") by Jonah Andersson
-
+- [https://azurecharts.com](AzureCharts.com) by Alexey Polkovnikov 
+- [Azure Fridays](https://learn.microsoft.com/en-us/shows/azure-friday/?WT.mc_id=AZ-MVP-5004251)
+- [What is .NET? How does it work? Is it a language or a Platform? by Scott Hanselman](https://www.hanselman.com/blog/what-is-net-how-does-it-work-is-it-a-language-or-a-platform)
 
 ## Azure DevOps & GitHub
 
