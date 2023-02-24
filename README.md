@@ -14,6 +14,7 @@ This is a compilation of the list of recommended learning resources for the foll
 - Infrastructure as Code (IaC) and Automation with Bicep, Terraform on Azure and other cloud providers
 - General Developer / Engineer Guide for Beginners 
 
+NOTE: Click link by opening it on a new tab  
 
 ## C# Programming and .NET Development  
 
