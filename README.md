@@ -16,7 +16,7 @@ This is a compilation of the list of recommended learning resources for the foll
 - Infrastructure as Code (IaC) and Automation with Bicep, Terraform on Azure and other cloud providers
 - General Developer / Engineer Guide for Beginners 
 
-NOTE: Click link by opening it on a new tab  
+NOTE: Click link by opening it on a new tab 😊
 
 ## C# Programming and .NET Development  
 
@@ -26,6 +26,7 @@ NOTE: Click link by opening it on a new tab
 - [What is .NET? How does it work? Is it a language or a Platform? by Scott Hanselman](https://www.hanselman.com/blog/what-is-net-how-does-it-work-is-it-a-language-or-a-platform)
 - [.NET Core vs .NET Framework - What's the difference?](https://www.youtube.com/watch?v=79UWvR734wI)
 - [ASP.NET Documentation](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
+- [.NET MAUI Cross-platform Development](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui?view=net-maui-7.0/?WT.mc_id=DT-MVP-500425)
 
 
 ## Cloud Development with Microsoft Azure
