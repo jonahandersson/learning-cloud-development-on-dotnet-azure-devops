@@ -22,6 +22,7 @@ NOTE: Click link by opening it on a new tab
 - [Free Learning Tutorial Videos for Learning .NET](https://dotnet.microsoft.com/en-us/learn/videos?WT.mc_id=DT-MVP-5004251)
 - [.NET Application Architecture - Reference Apps](https://github.com/dotnet-architecture)
 - [What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build?](https://www.youtube.com/watch?v=bEfBfBQq7EE)
+- [.NET Core vs .NET Framework - What's the difference?](https://www.youtube.com/watch?v=79UWvR734wI)
 
 
 ## Cloud Development with Microsoft Azure
