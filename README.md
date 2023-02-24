@@ -25,6 +25,7 @@ NOTE: Click link by opening it on a new tab
 - [.NET Application Architecture - Reference Apps](https://github.com/dotnet-architecture)
 - [What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build?](https://www.youtube.com/watch?v=bEfBfBQq7EE)
 - [.NET Core vs .NET Framework - What's the difference?](https://www.youtube.com/watch?v=79UWvR734wI)
+- [ASP.NET Documentation](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
 
 
 ## Cloud Development with Microsoft Azure
@@ -32,7 +33,7 @@ NOTE: Click link by opening it on a new tab
 - [Microsoft Learn Path for Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/?WT.mc_id=AZ-MVP-5004251)
 - [Directory of Azure Services by Technical Category](https://azure.microsoft.com/en-us/products/?WT.mc_id=AZ-MVP-5004251)
 - [Learning Microsoft Azure: Cloud Computing and Development Fundamentals (O'Reilly Media Book)](https://learning.oreilly.com/library/view/learning-microsoft-azure/9781098113315/ "Learning Microsoft Azure: Cloud Computing and Development Fundamentals (O'Reilly Media Book) by Jonah Andersson ") by Jonah Andersson
-- [https://azurecharts.com](AzureCharts.com) by Alexey Polkovnikov 
+- [AzureCharts.com](https://azurecharts.com) by Alexey Polkovnikov 
 - [Azure Fridays](https://learn.microsoft.com/en-us/shows/azure-friday/?WT.mc_id=AZ-MVP-5004251)
 - [What is .NET? How does it work? Is it a language or a Platform? by Scott Hanselman](https://www.hanselman.com/blog/what-is-net-how-does-it-work-is-it-a-language-or-a-platform)
 
@@ -40,6 +41,7 @@ NOTE: Click link by opening it on a new tab
 
 - [Azure DevOps Labs](https://azuredevopslabs.com/)
 - [GitHub Documentation](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources?WT.mc_id=DT-MVP-500425)
+- [Infrastructure as Code IaC](https://learn.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code?WT.mc_id=DT-MVP-500425)
 
 ## Learn-by-Doing Learning Paths, Urls, Repos and Courses
 
