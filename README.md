@@ -55,6 +55,7 @@ NOTE: Click link by opening it on a new tab 😊
 - [Top 9 Skills Every .NET Developer Must Have](https://www.dotnetnakama.com/blog/top-9-skills-every-dotnet-developer-must-have/)
 - [Building Careers with Empathy with Scott Hanselman](https://www.youtube.com/watch?v=6eSpILu7wpg)
 - [Microsoft Developer YouTube Channel](https://www.youtube.com/@MicrosoftDeveloper)
+- [CodeNewbie Podcast](https://www.codenewbie.org/podcast)
 
 ## Recommended Azure and .NET User Group Communities 
 
