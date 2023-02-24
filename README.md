@@ -27,6 +27,7 @@ NOTE: Click link by opening it on a new tab 😊
 - [.NET Core vs .NET Framework - What's the difference?](https://www.youtube.com/watch?v=79UWvR734wI)
 - [ASP.NET Documentation](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
 - [.NET MAUI Cross-platform Development](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui?view=net-maui-7.0/?WT.mc_id=DT-MVP-500425)
+- [.NET Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor?WT.mc_id=DT-MVP-500425)
 
 
 ## Cloud Development with Microsoft Azure
