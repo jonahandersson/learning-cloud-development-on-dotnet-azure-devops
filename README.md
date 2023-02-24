@@ -1,6 +1,7 @@
 # .NET + Azure Development + Infrastructure as Code (IaC) + Azure DevOps Fundamentals (Recommended Learning Materials)
 
-#### Learning Materials for Microsoft Azure and .NET Development by [Jonah Andersson](https://www.linkedin.com/in/jonahandersson).
+#### Learning Materials for Microsoft Azure, .NET Development, Azure DevOps, Developer Inspiration compilation 
+by [Jonah Andersson](https://www.linkedin.com/in/jonahandersson).
 
 
 ### DESCRIPTION: 
