@@ -23,7 +23,7 @@ NOTE: Click link by opening it on a new tab
 - [Microsoft: Learn .NET Learning Resources](https://dotnet.microsoft.com/en-us/learn?WT.mc_id=DT-MVP-5004251) 
 - [Free Learning Tutorial Videos for Learning .NET](https://dotnet.microsoft.com/en-us/learn/videos?WT.mc_id=DT-MVP-5004251)
 - [.NET Application Architecture - Reference Apps](https://github.com/dotnet-architecture)
-- [What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build?](https://www.youtube.com/watch?v=bEfBfBQq7EE)
+- [What is .NET? How does it work? Is it a language or a Platform? by Scott Hanselman](https://www.hanselman.com/blog/what-is-net-how-does-it-work-is-it-a-language-or-a-platform)
 - [.NET Core vs .NET Framework - What's the difference?](https://www.youtube.com/watch?v=79UWvR734wI)
 - [ASP.NET Documentation](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
 
@@ -35,7 +35,7 @@ NOTE: Click link by opening it on a new tab
 - [Learning Microsoft Azure: Cloud Computing and Development Fundamentals (O'Reilly Media Book)](https://learning.oreilly.com/library/view/learning-microsoft-azure/9781098113315/ "Learning Microsoft Azure: Cloud Computing and Development Fundamentals (O'Reilly Media Book) by Jonah Andersson ") by Jonah Andersson
 - [AzureCharts.com](https://azurecharts.com) by Alexey Polkovnikov 
 - [Azure Fridays](https://learn.microsoft.com/en-us/shows/azure-friday/?WT.mc_id=AZ-MVP-5004251)
-- [What is .NET? How does it work? Is it a language or a Platform? by Scott Hanselman](https://www.hanselman.com/blog/what-is-net-how-does-it-work-is-it-a-language-or-a-platform)
+
 
 ## Azure DevOps & GitHub
 
