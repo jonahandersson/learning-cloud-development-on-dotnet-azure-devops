@@ -20,7 +20,7 @@ This is a compilation of the list of recommended learning resources for the foll
 - [Microsoft: Learn .NET Learning Resources](https://dotnet.microsoft.com/en-us/learn?WT.mc_id=DT-MVP-5004251) 
 - [Free Learning Tutorial Videos for Learning .NET](https://dotnet.microsoft.com/en-us/learn/videos?WT.mc_id=DT-MVP-5004251)
 - [.NET Application Architecture - Reference Apps](https://github.com/dotnet-architecture)
-- 
+- [What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build?](https://www.youtube.com/watch?v=bEfBfBQq7EE)
 
 
 ## Cloud Development with Microsoft Azure
@@ -34,23 +34,31 @@ This is a compilation of the list of recommended learning resources for the foll
 
 ## Azure DevOps & GitHub
 
-- Azure DevOps Labs https://azuredevopslabs.com/ 
-- 
+- [Azure DevOps Labs](https://azuredevopslabs.com/)
+- [GitHub Documentation](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources?WT.mc_id=DT-MVP-500425)
 
 ## Learn-by-Doing Learning Paths, Urls, Repos and Courses
 
-
+- [Microsoft Learning Path for .NET Development](https://learn.microsoft.com/en-us/training/dotnet/?WT.mc_id=DT-MVP-500425)
+- [Microsoft Learn for Azure](https://learn.microsoft.com/en-us/training/azure/?WT.mc_id=AZ-MVP-500425)
 
 ## Keep-Yourself-Inspired and Updated List 
 
 - [Top 9 Skills Every .NET Developer Must Have](https://www.dotnetnakama.com/blog/top-9-skills-every-dotnet-developer-must-have/)
+- [Building Careers with Empathy with Scott Hanselman](https://www.youtube.com/watch?v=6eSpILu7wpg)
+- [Microsoft Developer YouTube Channel](https://www.youtube.com/@MicrosoftDeveloper)
+
+## Recommended Azure and .NET User Group Communities 
+
+- [Azure User Group Sweden](meetup.com/azureusergroupsundsvallsverige)
+- [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor?WT.mc_id=DT-MVP-500425)
 
 
 ## Contributions  
 
-
+If you are interested to add more into this list, feel free to create a branch and send a pull request request or reach out to me :) 
 
 
 ## Contact 
 
-If you have questions regarding this repo and materials, please feel free to reach out to me on LinkedIn or Twitter
+If you have questions regarding this repo and materials, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jonahandersson) or [Twitter](https://www.twitter.com/cjkodare)
