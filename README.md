@@ -75,6 +75,8 @@ NOTE: Click link by opening it on a new tab 😊
 - [Microsoft Developer YouTube Channel](https://www.youtube.com/@MicrosoftDeveloper)
 - [CodeNewbie Podcast](https://www.codenewbie.org/podcast)
 - [YouTube Channel - IamTimCorey](https://www.youtube.com/@IAmTimCorey) 
+- [Hanselminutes Technology Podcast by Scott Hanselman](https://hanselminutes.com/)
+- [ExtendWomenInTechPodcast by Jonah Andersson & Tsedey Terefe](https://podcasts.apple.com/us/podcast/extend-women-in-tech-podcast/id1547225298)
 
 ## Recommended Azure and .NET User Group Communities 
 
