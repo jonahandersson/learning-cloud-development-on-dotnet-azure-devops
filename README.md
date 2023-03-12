@@ -52,6 +52,7 @@ NOTE: Click link by opening it on a new tab 😊
 
 - [Microsoft Learning Path for .NET Development](https://learn.microsoft.com/en-us/training/dotnet/?WT.mc_id=DT-MVP-500425)
 - [Microsoft Learn for Azure](https://learn.microsoft.com/en-us/training/azure/?WT.mc_id=AZ-MVP-500425)
+- [.NET Presentations, Workshops, Tutorials, & E-books by .NET Foundation](https://dotnetfoundation.org/community/resources)
 
 ## Keep-Yourself-Inspired and Updated List 
 
@@ -59,11 +60,15 @@ NOTE: Click link by opening it on a new tab 😊
 - [Building Careers with Empathy with Scott Hanselman](https://www.youtube.com/watch?v=6eSpILu7wpg)
 - [Microsoft Developer YouTube Channel](https://www.youtube.com/@MicrosoftDeveloper)
 - [CodeNewbie Podcast](https://www.codenewbie.org/podcast)
+- [YouTube Channel - IamTimCorey](https://www.youtube.com/@IAmTimCorey) 
 
 ## Recommended Azure and .NET User Group Communities 
 
-- [Azure User Group Sweden](meetup.com/azureusergroupsundsvallsverige)
+- [Azure User Group Sweden](meetup.com/azureusergroupsundsvallsverige) 
 - [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor?WT.mc_id=DT-MVP-500425)
+- [.NET Developer Community(https://dotnet.microsoft.com/en-us/platform/community)
+- [#WeAreDotNet Community](https://www.wearedotnet.io/)
+- [LinkedIn Group - .NET Developers](https://www.linkedin.com/groups/40949/)
 
 
 ## Contributions  
