@@ -55,6 +55,7 @@ NOTE: Click link by opening it on a new tab 😊
 - [Infrastructure as Code IaC](https://learn.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code?WT.mc_id=DT-MVP-500425)
 - [Infrastructure as Code IaC Bicep on Azure](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
 - [Getting Started with IaC using Terraform Hashicorp](https://developer.hashicorp.com/terraform/tutorials)
+- [GitHub Skills Tutorials](https://skills.github.com/)
 
 
 ## Cloud Security, Azure Security, DevSecOps Fundamentals
