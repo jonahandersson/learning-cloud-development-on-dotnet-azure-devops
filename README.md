@@ -32,6 +32,7 @@ NOTE: Click link by opening it on a new tab 😊
 - [.NET MAUI Cross-platform Development](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui?view=net-maui-7.0/?WT.mc_id=DT-MVP-500425)
 - [.NET Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor?WT.mc_id=DT-MVP-500425)
 - [Blazor University](https://blazor-university.com/)
+- [How To Learn C# in 2023 - Learning Path, Tips & Tricks, and More by Tim Corey](https://www.youtube.com/watch?v=hnjly9iBHso)
 
 
 ## Cloud Development with Microsoft Azure
@@ -43,7 +44,8 @@ NOTE: Click link by opening it on a new tab 😊
 - [AzureCharts.com](https://azurecharts.com) by Alexey Polkovnikov 
 - [Azure Fridays](https://learn.microsoft.com/en-us/shows/azure-friday/?WT.mc_id=AZ-MVP-5004251)
 - [Microsoft Virtual Training Days](https://www.microsoft.com/en-us/trainingdays)
-
+- [Courses of Tim Warner at Pluralsight](https://www.pluralsight.com/authors/tim-warner)
+- [Free Azure Courses of Ryan O'Connell at Udemy](https://www.udemy.com/user/ryan-oconnell-3/)
 
 ## Azure DevOps & GitHub
 
@@ -79,7 +81,7 @@ NOTE: Click link by opening it on a new tab 😊
 - [ExtendWomenInTechPodcast by Jonah Andersson & Tsedey Terefe](https://podcasts.apple.com/us/podcast/extend-women-in-tech-podcast/id1547225298)
 - [.NET MAUI Podcast](https://www.dotnetmauipodcast.com/)
 - [.NET Rocks](https://www.dotnetrocks.com/)
-- 
+
 ## Recommended Azure and .NET User Group Communities 
 
 - [Azure User Group Sweden](meetup.com/azureusergroupsundsvallsverige) - A community I founded 😊
@@ -95,6 +97,8 @@ NOTE: Click link by opening it on a new tab 😊
 - [AZ-400: Designing and Implementing DevOps Solutions](https://learn.microsoft.com/en-us/certifications/exams/az-400)
 - [AZ-500: Microsoft Azure Security Technologies](https://learn.microsoft.com/en-us/certifications/exams/az-500)
 - [HashiCorp Infrastructure Automation Certification](https://www.hashicorp.com/certification/terraform-associate)
+- [Azure Certifications Study Guides by Tiago Costa](https://www.tiagocosta.com/azure-certifications/)
+- [Certifications Study Guides by Thomas Maurer](https://www.thomasmaurer.ch/category/microsoft/certification/)
 
 ## Contributions  
 
