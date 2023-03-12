@@ -46,6 +46,7 @@ NOTE: Click link by opening it on a new tab 😊
 - [Microsoft Virtual Training Days](https://www.microsoft.com/en-us/trainingdays)
 - [Courses of Tim Warner at Pluralsight](https://www.pluralsight.com/authors/tim-warner)
 - [Free Azure Courses of Ryan O'Connell at Udemy](https://www.udemy.com/user/ryan-oconnell-3/)
+- [Azure Friday](https://learn.microsoft.com/en-us/shows/azure-friday/)
 
 ## Azure DevOps & GitHub
 
@@ -76,6 +77,7 @@ NOTE: Click link by opening it on a new tab 😊
 - [Top 9 Skills Every .NET Developer Must Have](https://www.dotnetnakama.com/blog/top-9-skills-every-dotnet-developer-must-have/)
 - [Building Careers with Empathy with Scott Hanselman](https://www.youtube.com/watch?v=6eSpILu7wpg)
 - [Microsoft Developer YouTube Channel](https://www.youtube.com/@MicrosoftDeveloper)
+- [Microsoft: Developer Stories](https://learn.microsoft.com/en-us/shows/developer-stories/)
 - [CodeNewbie Podcast](https://www.codenewbie.org/podcast)
 - [YouTube Channel - IamTimCorey](https://www.youtube.com/@IAmTimCorey) 
 - [Hanselminutes Technology Podcast by Scott Hanselman](https://hanselminutes.com/)
