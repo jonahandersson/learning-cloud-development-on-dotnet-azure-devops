@@ -46,10 +46,19 @@ NOTE: Click link by opening it on a new tab 😊
 ## Azure DevOps & GitHub
 
 - [Azure DevOps Labs](https://azuredevopslabs.com/)
+- [DevOps on Azure, YouTube Channel](https://www.youtube.com/@AzureDevOps)
 - [GitHub Documentation](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources?WT.mc_id=DT-MVP-500425)
 - [Infrastructure as Code IaC](https://learn.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code?WT.mc_id=DT-MVP-500425)
 - [Infrastructure as Code IaC Bicep on Azure](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
 - [Getting Started with IaC using Terraform Hashicorp](https://developer.hashicorp.com/terraform/tutorials)
+
+
+## Cloud Security, Azure Security, DevSecOps Fundamentals
+
+- [Cyberark Whitepaper about DevOps Security](https://www.cyberark.com/what-is/devops-security)
+- [DevOps on Azure - DevSecOps on Azure](https://www.youtube.com/watch?v=qI8MRbNGKlM=)
+- [Microsoft Defender for DevOps](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-devops-introduction?WT.mc_id=AZ-MVP-500425)
+- [Microsoft Documentation: Azure Security](https://learn.microsoft.com/en-us/azure/security?WT.mc_id=AZ-MVP-500425)
 
 ## Learn-by-Doing Learning Paths, Urls, Repos and Courses
 
@@ -69,15 +78,22 @@ NOTE: Click link by opening it on a new tab 😊
 
 - [Azure User Group Sweden](meetup.com/azureusergroupsundsvallsverige) 
 - [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor?WT.mc_id=DT-MVP-500425)
-- [.NET Developer Community(https://dotnet.microsoft.com/en-us/platform/community)
+- [.NET Developer Community](https://dotnet.microsoft.com/en-us/platform/community)
 - [WeAreDotNet Community](https://www.wearedotnet.io/)
 - [LinkedIn Group - .NET Developers](https://www.linkedin.com/groups/40949/)
 
+## Recommended Certifications for .NET, Azure, Infrastructure as Code, DevOps
+
+- [AZ-900: Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/exams/az-900?WT.mc_id=AZ-MVP-500425)
+- [AZ-204: Developing Solutions for Microsoft Azure](https://learn.microsoft.com/en-us/certifications/exams/az-204?WT.mc_id=AZ-MVP-500425)
+- [AZ-400: Designing and Implementing DevOps Solutions](https://learn.microsoft.com/en-us/certifications/exams/az-400)
+- [AZ-500: Microsoft Azure Security Technologies](https://learn.microsoft.com/en-us/certifications/exams/az-500)
+- [HashiCorp Infrastructure Automation Certification](https://www.hashicorp.com/certification/terraform-associate)
 
 ## Contributions  
 
-If you are interested to add more into this list, feel free to create a branch and send a pull request request or reach out to me :) 
-
+If you are interested to add more into this list, please feel free to create a branch and send a pull request request or reach out to me on LinkedIn or Twitter.
+I would love some contributions from the tech communities if I missed any. 
 
 ## Contact 
 
