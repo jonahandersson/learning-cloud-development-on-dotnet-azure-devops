@@ -39,7 +39,7 @@ NOTE: Click link by opening it on a new tab 😊
 - [Microsoft Learn Path for Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/?WT.mc_id=AZ-MVP-5004251)
 - [Directory of Azure Services by Technical Category](https://azure.microsoft.com/en-us/products/?WT.mc_id=AZ-MVP-5004251)
 - [List of Azure Services for Developers to Know](https://learn.microsoft.com/en-us/azure/developer/intro/azure-developer-key-services?source=recommendations)
-- [Learning Microsoft Azure: Cloud Computing and Development Fundamentals (O'Reilly Media Book)](https://learning.oreilly.com/library/view/learning-microsoft-azure/9781098113315/ "Learning Microsoft Azure: Cloud Computing and Development Fundamentals (O'Reilly Media Book) by Jonah Andersson ") by Jonah Andersson
+- [Learning Microsoft Azure: Cloud Computing and Development Fundamentals (O'Reilly Media Book)](https://learning.oreilly.com/library/view/learning-microsoft-azure/9781098113315/ "Learning Microsoft Azure: Cloud Computing and Development Fundamentals (O'Reilly Media Book) by Jonah Andersson ") 
 - [AzureCharts.com](https://azurecharts.com) by Alexey Polkovnikov 
 - [Azure Fridays](https://learn.microsoft.com/en-us/shows/azure-friday/?WT.mc_id=AZ-MVP-5004251)
 - [Microsoft Virtual Training Days](https://www.microsoft.com/en-us/trainingdays)
