@@ -80,7 +80,7 @@ NOTE: Click link by opening it on a new tab 😊
 - [Hanselminutes Technology Podcast by Scott Hanselman](https://hanselminutes.com/)
 - [ExtendWomenInTechPodcast by Jonah Andersson & Tsedey Terefe](https://podcasts.apple.com/us/podcast/extend-women-in-tech-podcast/id1547225298)
 - [.NET MAUI Podcast](https://www.dotnetmauipodcast.com/)
-- [.NET Rocks](https://www.dotnetrocks.com/)
+- [.NET Rocks by Carl Franklin and Richard Campbell](https://www.dotnetrocks.com/)
 
 ## Recommended Azure and .NET User Group Communities 
 
