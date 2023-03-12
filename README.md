@@ -2,7 +2,7 @@
 ![Learning Resources for  NET, Azure, etc](https://user-images.githubusercontent.com/14919667/224551645-7e182e84-3e57-45f0-9400-8bcf97cf15b2.png)
 
 #### Learning Materials for Microsoft Azure, .NET Development, Azure DevOps, Developer Inspiration compilation 
-by [Jonah Andersson](https://www.linkedin.com/in/jonahandersson).
+by [Jonah Andersson](https://www.linkedin.com/in/jonahandersson) + future contributors
 
 This list is recommended to those who are still in the beginning of their learning journey as developers in Azure, .NET, DevOps, etc. 
 
