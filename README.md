@@ -89,6 +89,7 @@ NOTE: Click link by opening it on a new tab 😊
 - [.NET Developer Community](https://dotnet.microsoft.com/en-us/platform/community)
 - [WeAreDotNet Community](https://www.wearedotnet.io/)
 - [LinkedIn Group - .NET Developers](https://www.linkedin.com/groups/40949/)
+- [C# Corner Community](https://www.c-sharpcorner.com/)
 
 ## Recommended Certifications for .NET, Azure, Infrastructure as Code, DevOps
 
