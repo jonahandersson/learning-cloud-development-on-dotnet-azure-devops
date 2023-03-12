@@ -77,10 +77,12 @@ NOTE: Click link by opening it on a new tab 😊
 - [YouTube Channel - IamTimCorey](https://www.youtube.com/@IAmTimCorey) 
 - [Hanselminutes Technology Podcast by Scott Hanselman](https://hanselminutes.com/)
 - [ExtendWomenInTechPodcast by Jonah Andersson & Tsedey Terefe](https://podcasts.apple.com/us/podcast/extend-women-in-tech-podcast/id1547225298)
-
+- [.NET MAUI Podcast](https://www.dotnetmauipodcast.com/)
+- [.NET Rocks](https://www.dotnetrocks.com/)
+- 
 ## Recommended Azure and .NET User Group Communities 
 
-- [Azure User Group Sweden](meetup.com/azureusergroupsundsvallsverige) 
+- [Azure User Group Sweden](meetup.com/azureusergroupsundsvallsverige) - A community I founded 😊
 - [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor?WT.mc_id=DT-MVP-500425)
 - [.NET Developer Community](https://dotnet.microsoft.com/en-us/platform/community)
 - [WeAreDotNet Community](https://www.wearedotnet.io/)
