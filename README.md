@@ -1,4 +1,5 @@
 # .NET + Azure Development + Infrastructure as Code (IaC) + Azure DevOps Fundamentals (Recommended Learning Materials)
+![Learning Resources for  NET, Azure, etc](https://user-images.githubusercontent.com/14919667/224551645-7e182e84-3e57-45f0-9400-8bcf97cf15b2.png)
 
 #### Learning Materials for Microsoft Azure, .NET Development, Azure DevOps, Developer Inspiration compilation 
 by [Jonah Andersson](https://www.linkedin.com/in/jonahandersson).
@@ -47,6 +48,8 @@ NOTE: Click link by opening it on a new tab 😊
 - [Azure DevOps Labs](https://azuredevopslabs.com/)
 - [GitHub Documentation](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources?WT.mc_id=DT-MVP-500425)
 - [Infrastructure as Code IaC](https://learn.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code?WT.mc_id=DT-MVP-500425)
+- [Infrastructure as Code IaC Bicep on Azure](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
+- [Getting Started with IaC using Terraform Hashicorp](https://developer.hashicorp.com/terraform/tutorials)
 
 ## Learn-by-Doing Learning Paths, Urls, Repos and Courses
 
@@ -67,7 +70,7 @@ NOTE: Click link by opening it on a new tab 😊
 - [Azure User Group Sweden](meetup.com/azureusergroupsundsvallsverige) 
 - [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor?WT.mc_id=DT-MVP-500425)
 - [.NET Developer Community(https://dotnet.microsoft.com/en-us/platform/community)
-- [#WeAreDotNet Community](https://www.wearedotnet.io/)
+- [WeAreDotNet Community](https://www.wearedotnet.io/)
 - [LinkedIn Group - .NET Developers](https://www.linkedin.com/groups/40949/)
 
 
