@@ -1,4 +1,4 @@
-# .NET + Azure Development + Infrastructure as Code (IaC) + Azure DevOps Fundamentals (Recommended Learning Materials)
+# Recommended Learning Materials for .NET + Azure Development + Infrastructure as Code (IaC) + Azure DevOps + DevSecOps + Security in Azure + Developer Inspiration 💡
 ![Learning Resources for  NET, Azure, etc](https://user-images.githubusercontent.com/14919667/224551645-7e182e84-3e57-45f0-9400-8bcf97cf15b2.png)
 
 #### Learning Materials for Microsoft Azure, .NET Development, Azure DevOps, Developer Inspiration compilation 
@@ -65,6 +65,9 @@ NOTE: Click link by opening it on a new tab 😊
 - [DevOps on Azure - DevSecOps on Azure](https://www.youtube.com/watch?v=qI8MRbNGKlM=)
 - [Microsoft Defender for DevOps](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-devops-introduction?WT.mc_id=AZ-MVP-500425)
 - [Microsoft Documentation: Azure Security](https://learn.microsoft.com/en-us/azure/security?WT.mc_id=AZ-MVP-500425)
+- [Microsoft Security Technical Content Library](https://www.microsoft.com/en-us/security/content-library/Home/Index?culture=en-US?WT.mc_id=AZ-MVP-500425)
+- [Microsoft Security: Security Unlocked Podcast](https://thecyberwire.com/podcasts/security-unlocked)
+- [Microsoft Security YouTube Channel](https://www.youtube.com/microsoftsecurity)
 
 ## Learn-by-Doing Learning Paths, Urls, Repos and Courses
 
@@ -104,10 +107,18 @@ NOTE: Click link by opening it on a new tab 😊
 - [Azure Certifications Study Guides by Tiago Costa](https://www.tiagocosta.com/azure-certifications/)
 - [Certifications Study Guides by Thomas Maurer](https://www.thomasmaurer.ch/category/microsoft/certification/)
 
+
+## Free and Complimentary e-Books 
+
+- [Microsoft - The Developer's Guide to Azure](https://azure.microsoft.com/en-us/resources/whitepapers/developer-guide-to-azure?WT.mc_id=AZ-MVP-500425)
+- [Azure Skills Navigator](https://azure.microsoft.com/en-us/resources/azure-skills-navigator-for-developers?WT.mc_id=AZ-MVP-500425)
+
 ## Contributions  
 
 If you are interested to add more into this list, please feel free to create a branch and send a pull request request or reach out to me on LinkedIn or Twitter.
 I would love some contributions from the tech communities if I missed any. 
+
+Share to friends or colleagues who might find this list useful in their developer journey 😊 
 
 ## Contact 
 
