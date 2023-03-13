@@ -2,7 +2,7 @@
 ![Learning Resources for  NET, Azure, etc](https://user-images.githubusercontent.com/14919667/224551645-7e182e84-3e57-45f0-9400-8bcf97cf15b2.png)
 
 #### Learning Materials for Microsoft Azure, .NET Development, Azure DevOps, Developer Inspiration compilation 
-by [Jonah Andersson](https://www.linkedin.com/in/jonahandersson) + future contributors
+by [Jonah Andersson](https://www.linkedin.com/in/jonahandersson) + community contributors 
 
 This list is recommended to those who are still in the beginning of their learning journey as developers in Azure, .NET, DevOps, etc. 
 
@@ -34,7 +34,6 @@ NOTE: Click link by opening it on a new tab 😊
 - [Blazor University](https://blazor-university.com/)
 - [How To Learn C# in 2023 - Learning Path, Tips & Tricks, and More by Tim Corey](https://www.youtube.com/watch?v=hnjly9iBHso)
 
-
 ## Cloud Development with Microsoft Azure
 
 - [Microsoft Learn Path for Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/?WT.mc_id=AZ-MVP-5004251)
@@ -47,6 +46,7 @@ NOTE: Click link by opening it on a new tab 😊
 - [Courses of Tim Warner at Pluralsight](https://www.pluralsight.com/authors/tim-warner)
 - [Free Azure Courses of Ryan O'Connell at Udemy](https://www.udemy.com/user/ryan-oconnell-3/)
 - [Azure Friday](https://learn.microsoft.com/en-us/shows/azure-friday/)
+- [Learn to Cloud Guide -An open-source guide to the fundamentals of Cloud](https://learntocloud.guide/)
 
 ## Azure DevOps & GitHub
 
