@@ -1,4 +1,4 @@
-# Recommended Learning Materials for .NET + Azure Development + Infrastructure as Code (IaC) + Azure DevOps + DevSecOps + Security in Azure + Developer Inspiration 💡
+## Recommended Learning Materials for .NET + Azure Development + Infrastructure as Code (IaC) + Azure DevOps + DevSecOps + Security in Azure + Developer Inspiration 💡
 ![Learning Resources for  NET, Azure, etc](https://user-images.githubusercontent.com/14919667/224551645-7e182e84-3e57-45f0-9400-8bcf97cf15b2.png)
 
 #### Learning Materials for Microsoft Azure, .NET Development, Azure DevOps, Developer Inspiration compilation 
