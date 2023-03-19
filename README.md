@@ -96,6 +96,9 @@ NOTE: Click link by opening it on a new tab 😊
 - [WeAreDotNet Community](https://www.wearedotnet.io/)
 - [LinkedIn Group - .NET Developers](https://www.linkedin.com/groups/40949/)
 - [C# Corner Community](https://www.c-sharpcorner.com/)
+- [Azure Tech Groups Globally](https://developer.microsoft.com/en-us/azure-tech-groups/overview)
+- [StreamingClouds](https://www.youtube.com/c/StreamingClouds)
+- 
 
 ## Recommended Certifications for .NET, Azure, Infrastructure as Code, DevOps
 
